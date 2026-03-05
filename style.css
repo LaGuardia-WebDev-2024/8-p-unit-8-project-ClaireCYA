@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: rgb(204, 245, 243);
   text-align: center;
   color: navy;
   margin: auto;
@@ -16,7 +16,7 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://fpdcc.com/wp-content/uploads/2021/11/maple-lake-woods-dark-sky-tom-hahn-nov21.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
